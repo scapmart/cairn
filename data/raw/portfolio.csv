@@ -1,0 +1,4 @@
+symbol,size,entry_price,current_price,source
+BTC,0.5,60000,65000,bitget
+ETH,2,3000,3200,bitget
+SOL,10,120,110,bitget

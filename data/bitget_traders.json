@@ -1,0 +1,18 @@
+[
+  {
+    "id": "trader_A",
+    "trades": [
+      {"pnl_pct": 5.2, "duration": 10, "leverage": 5},
+      {"pnl_pct": -2.0, "duration": 2, "leverage": 10},
+      {"pnl_pct": 3.1, "duration": 5, "leverage": 3}
+    ]
+  },
+  {
+    "id": "trader_B",
+    "trades": [
+      {"pnl_pct": 1.0, "duration": 1, "leverage": 20},
+      {"pnl_pct": 0.5, "duration": 1, "leverage": 20},
+      {"pnl_pct": -8.0, "duration": 3, "leverage": 50}
+    ]
+  }
+]

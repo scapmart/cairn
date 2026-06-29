@@ -1,0 +1,1964 @@
+[
+  {
+    "timestamp": "2026-06-29T08:44:09.225693",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "message": "BTC repr\u00e9sente 81.2% du portefeuille",
+      "action": "Envisager une r\u00e9duction de l'exposition BTC",
+      "why_wrong": [
+        "La forte concentration BTC peut \u00eatre une strat\u00e9gie volontaire (conviction trade) et non un risque structurel.",
+        "La sous-performance peut \u00eatre du bruit de march\u00e9 \u00e0 court terme.",
+        "Le march\u00e9 crypto est fortement cyclique : les signaux courts peuvent \u00eatre trompeurs."
+      ],
+      "confidence": 0.65,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity",
+        "regime_volatility"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:44:09.225900",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance d\u00e9tect\u00e9e: SOL",
+      "severity": "warning",
+      "message": "SOL est \u00e0 -8.33%",
+      "action": "Surveiller ou r\u00e9duire la position",
+      "why_wrong": [
+        "La forte concentration BTC peut \u00eatre une strat\u00e9gie volontaire (conviction trade) et non un risque structurel.",
+        "La sous-performance peut \u00eatre du bruit de march\u00e9 \u00e0 court terme.",
+        "Le march\u00e9 crypto est fortement cyclique : les signaux courts peuvent \u00eatre trompeurs."
+      ],
+      "confidence": 0.65,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity",
+        "regime_volatility"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:44:09.226105",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "message": "BTC performe bien (8.33%)",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "La forte concentration BTC peut \u00eatre une strat\u00e9gie volontaire (conviction trade) et non un risque structurel.",
+        "La sous-performance peut \u00eatre du bruit de march\u00e9 \u00e0 court terme.",
+        "Le march\u00e9 crypto est fortement cyclique : les signaux courts peuvent \u00eatre trompeurs."
+      ],
+      "confidence": 0.65,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity",
+        "regime_volatility"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:46:27.082414",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "Envisager r\u00e9duction exposition BTC",
+      "why_wrong": [
+        "Analyse de: Concentration BTC \u00e9lev\u00e9e",
+        "Concentration \u00e9lev\u00e9e peut \u00eatre intentionnelle (conviction trade)",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "March\u00e9 crypto tr\u00e8s volatil \u2192 signaux courts peu fiables",
+        "BTC dominance peut refl\u00e9ter une strat\u00e9gie macro assum\u00e9e"
+      ],
+      "confidence": 0.65,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity",
+        "regime_volatility"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:46:27.082815",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance d\u00e9tect\u00e9e: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "Analyse de: Sous-performance d\u00e9tect\u00e9e: SOL",
+        "Concentration \u00e9lev\u00e9e peut \u00eatre intentionnelle (conviction trade)",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "March\u00e9 crypto tr\u00e8s volatil \u2192 signaux courts peu fiables",
+        "ALT volatility \u00e9lev\u00e9e \u2192 mouvements extr\u00eames fr\u00e9quents"
+      ],
+      "confidence": 0.55,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity",
+        "regime_volatility"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:46:27.083212",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "Analyse de: Position forte: BTC",
+        "Concentration \u00e9lev\u00e9e peut \u00eatre intentionnelle (conviction trade)",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "March\u00e9 crypto tr\u00e8s volatil \u2192 signaux courts peu fiables",
+        "BTC dominance peut refl\u00e9ter une strat\u00e9gie macro assum\u00e9e"
+      ],
+      "confidence": 0.65,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity",
+        "regime_volatility"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:48:06.736132",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme souvent bruit\u00e9s",
+        "Absence de garantie directionnelle stable",
+        "Analyse sp\u00e9cifique: Concentration BTC \u00e9lev\u00e9e",
+        "Concentration BTC peut \u00eatre une strat\u00e9gie volontaire",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "BTC dominance peut refl\u00e9ter strat\u00e9gie macro assum\u00e9e"
+      ],
+      "confidence": 0.5,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:48:06.736548",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme souvent bruit\u00e9s",
+        "Absence de garantie directionnelle stable",
+        "Analyse sp\u00e9cifique: Sous-performance: SOL",
+        "Concentration BTC peut \u00eatre une strat\u00e9gie volontaire",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 mouvements extr\u00eames fr\u00e9quents"
+      ],
+      "confidence": 0.35,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:48:06.736939",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme souvent bruit\u00e9s",
+        "Absence de garantie directionnelle stable",
+        "Analyse sp\u00e9cifique: Position forte: BTC",
+        "Concentration BTC peut \u00eatre une strat\u00e9gie volontaire",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "BTC dominance peut refl\u00e9ter strat\u00e9gie macro assum\u00e9e"
+      ],
+      "confidence": 0.5,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:48:17.132499",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme souvent bruit\u00e9s",
+        "Absence de garantie directionnelle stable",
+        "Analyse sp\u00e9cifique: Concentration BTC \u00e9lev\u00e9e",
+        "Concentration BTC peut \u00eatre une strat\u00e9gie volontaire",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "BTC dominance peut refl\u00e9ter strat\u00e9gie macro assum\u00e9e"
+      ],
+      "confidence": 0.5,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:48:17.133067",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme souvent bruit\u00e9s",
+        "Absence de garantie directionnelle stable",
+        "Analyse sp\u00e9cifique: Sous-performance: SOL",
+        "Concentration BTC peut \u00eatre une strat\u00e9gie volontaire",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 mouvements extr\u00eames fr\u00e9quents"
+      ],
+      "confidence": 0.35,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:48:17.133569",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme souvent bruit\u00e9s",
+        "Absence de garantie directionnelle stable",
+        "Analyse sp\u00e9cifique: Position forte: BTC",
+        "Concentration BTC peut \u00eatre une strat\u00e9gie volontaire",
+        "Sous-performance peut \u00eatre du bruit de march\u00e9",
+        "BTC dominance peut refl\u00e9ter strat\u00e9gie macro assum\u00e9e"
+      ],
+      "confidence": 0.5,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:49:34.813399",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.4,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:49:34.814090",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatility \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.25,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:49:34.814681",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.4,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:49:37.410038",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.4,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:49:37.411056",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatility \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.25,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:49:37.411804",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.4,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:54:02.594567",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.3,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:54:02.595260",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.21,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:54:02.595948",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.3,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:55:58.414224",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5249999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:55:58.415150",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.4125,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:55:58.416046",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5249999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:58:20.598575",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.7349999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:58:20.599623",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5774999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:58:20.600604",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.7349999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:58:25.683546",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.7349999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:58:25.684811",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5774999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:58:25.685887",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.7349999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:59:45.073401",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.8084999999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:59:45.074647",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5486249999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T08:59:45.075739",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.7717499999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:00:47.728502",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.6792499999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:00:47.729811",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5493125,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:00:47.731008",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.660875,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:03:54.367769",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.71925,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:03:54.369130",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5493125,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:03:54.370519",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.675875,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:05:28.175091",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.7869499999999999,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:05:28.176523",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5490375,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:05:28.177867",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.726225,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:06:44.535333",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "risk",
+      "title": "Concentration BTC \u00e9lev\u00e9e",
+      "severity": "warning",
+      "action": "R\u00e9duire exposition BTC",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.768475,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:06:44.537043",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "performance",
+      "title": "Sous-performance: SOL",
+      "severity": "warning",
+      "action": "Surveiller ou r\u00e9duire position",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "ALT volatilit\u00e9 \u00e9lev\u00e9e \u2192 swings extr\u00eames fr\u00e9quents",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.5490375,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  },
+  {
+    "timestamp": "2026-06-29T09:06:44.538548",
+    "portfolio_snapshot": {
+      "total_value": 40000.0,
+      "total_pnl": 2800.0,
+      "positions": [
+        {
+          "symbol": "BTC",
+          "size": 0.5,
+          "pnl_pct": 8.333333333333332
+        },
+        {
+          "symbol": "ETH",
+          "size": 2.0,
+          "pnl_pct": 6.666666666666667
+        },
+        {
+          "symbol": "SOL",
+          "size": 10.0,
+          "pnl_pct": -8.333333333333332
+        }
+      ]
+    },
+    "recommendation": {
+      "type": "opportunity",
+      "title": "Position forte: BTC",
+      "severity": "info",
+      "action": "\u00c9viter sur-optimisation \u00e9motionnelle",
+      "why_wrong": [
+        "March\u00e9 crypto fortement volatil",
+        "Signaux court terme bruit\u00e9s",
+        "BTC dominance peut \u00eatre strat\u00e9gie macro volontaire",
+        "Sous-performance peut \u00eatre bruit statistique"
+      ],
+      "confidence": 0.726225,
+      "biases": [
+        "concentration_bias",
+        "noise_sensitivity"
+      ]
+    },
+    "decision": "suggested",
+    "outcome": null
+  }
+]

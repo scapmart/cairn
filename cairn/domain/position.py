@@ -1,3 +1,8 @@
+from dataclasses import dataclass
+from .asset import Asset
+
+
+@dataclass
 class Position:
     id: str
     asset: Asset
@@ -9,9 +14,9 @@ class Position:
     pnl_abs: float
     pnl_pct: float
 
-    leverage: float | None
+    leverage: float | None = None
 
-    opened_at: str
-    updated_at: str
+    opened_at: str = ""
+    updated_at: str = ""
 
-    source: str  # "bitget", "okx", "csv"
+    source: str = ""

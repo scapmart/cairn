@@ -1,4 +1,8 @@
+from dataclasses import dataclass
+
+
+@dataclass
 class Asset:
-    symbol: str        # "BTC", "ETH", "SOL"
+    symbol: str
     name: str | None
-    asset_type: str    # "crypto", "fiat", "stock"
+    asset_type: str
